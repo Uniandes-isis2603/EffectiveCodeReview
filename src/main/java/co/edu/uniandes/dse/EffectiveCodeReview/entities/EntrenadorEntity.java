@@ -11,6 +11,6 @@ public class EntrenadorEntity extends BaseEntity {
 
     private String Nombre;
 
-    private Date fecha_nacimiento;
+    private String region;
 
 }
