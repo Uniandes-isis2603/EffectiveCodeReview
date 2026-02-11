@@ -1,4 +1,4 @@
-# Back del proyecto YYY
+# Back del proyecto EffectiveCodeReview
 
 ## Enlaces de interés
 
