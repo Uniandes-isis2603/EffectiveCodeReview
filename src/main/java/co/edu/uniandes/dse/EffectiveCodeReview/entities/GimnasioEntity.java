@@ -11,6 +11,6 @@ public class GimnasioEntity extends BaseEntity {
 
     private String nombre;
 
-    private Boolean completado;
+    private String completado;
 
 }
