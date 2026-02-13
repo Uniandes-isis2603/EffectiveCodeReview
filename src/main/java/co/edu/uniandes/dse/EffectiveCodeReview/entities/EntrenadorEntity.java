@@ -9,8 +9,8 @@ import lombok.Data;
 @Entity
 public class EntrenadorEntity extends BaseEntity {
 
-    private String Nombre;
+    private String nombre;
 
-    private Date fecha_nacimiento;
+    private Date fechaNacimiento;
 
 }
